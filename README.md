@@ -1,0 +1,2 @@
+# HankerRange-
+HankerRange SQL solution
